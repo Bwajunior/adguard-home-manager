@@ -17,7 +17,7 @@ body:
     attributes:
       label: Screenshots
       description: Attach some screenshots of where that new feature is located on the web administration panel.
-      placeholder: |
+      placeholder: |Carlos toney Valenzuela jr 
         Screenshots here.
     validations:
       required: true
